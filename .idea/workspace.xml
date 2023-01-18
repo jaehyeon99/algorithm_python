@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="44a666bc-0678-40b1-8696-c8979782724f" name="Changes" comment="" />
+    <list default="true" id="44a666bc-0678-40b1-8696-c8979782724f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Greedy Algorithm/백준_14916.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Greedy Algorithm/백준_1758.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,6 +31,10 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "/Users/parkjaehyeon/Desktop/algorithm_python",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -35,7 +46,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1673937054082</updated>
-      <workItem from="1673937055688" duration="2856000" />
+      <workItem from="1673937055688" duration="3222000" />
+      <workItem from="1674033867799" duration="5511000" />
     </task>
     <servers />
   </component>
@@ -43,7 +55,11 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/algorithm_python$_1343.coverage" NAME="백준_1343 Coverage Results" MODIFIED="1673940894552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Greedy Algorithm" />
+    <SUITE FILE_PATH="coverage/algorithm_python$_14916.coverage" NAME="백준_14916 Coverage Results" MODIFIED="1674039171586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Greedy Algorithm" />
+    <SUITE FILE_PATH="coverage/algorithm_python$_1758.coverage" NAME="백준_1758 Coverage Results" MODIFIED="1674041914379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Greedy Algorithm" />
+    <SUITE FILE_PATH="coverage/algorithm_python$_.coverage" NAME="프로그래머스_조이스틱 Coverage Results" MODIFIED="1674044916417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Greedy Algorithm" />
+    <SUITE FILE_PATH="coverage/algorithm_python$___.coverage" NAME="프로그래머스_큰 수 만들기 Coverage Results" MODIFIED="1674048233564" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Greedy Algorithm" />
+    <SUITE FILE_PATH="coverage/algorithm_python$_1343.coverage" NAME="백준_1343 Coverage Results" MODIFIED="1673940939845" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Greedy Algorithm" />
     <SUITE FILE_PATH="coverage/algorithm_python$1____1.coverage" NAME="1이 될 때 까지_1 Coverage Results" MODIFIED="1673937071420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Greedy Algorithm" />
     <SUITE FILE_PATH="coverage/algorithm_python$_2217.coverage" NAME="백준_2217 Coverage Results" MODIFIED="1673939736734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Greedy Algorithm" />
   </component>
