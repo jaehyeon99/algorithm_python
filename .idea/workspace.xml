@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="44a666bc-0678-40b1-8696-c8979782724f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Greedy Algorithm/백준_14916.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Greedy Algorithm/백준_1758.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Greedy Algorithm/프로그래머스_체육복.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Greedy Algorithm/프로그래머스_큰 수 만들기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="44a666bc-0678-40b1-8696-c8979782724f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,7 +43,7 @@
       <option name="presentableId" value="Default" />
       <updated>1673937054082</updated>
       <workItem from="1673937055688" duration="3222000" />
-      <workItem from="1674033867799" duration="5615000" />
+      <workItem from="1674033867799" duration="6280000" />
     </task>
     <servers />
   </component>

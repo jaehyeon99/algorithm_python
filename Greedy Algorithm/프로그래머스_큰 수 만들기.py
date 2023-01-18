@@ -6,5 +6,4 @@ def solution(number, k):
             answer.pop()
             k -= 1
         answer.append(i)
-
     return ''.join(answer[:len(answer) - k])

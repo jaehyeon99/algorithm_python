@@ -20,5 +20,4 @@ for origin in think:
         result += 0
     else:
         result += temp
-
 print(result)
