@@ -5,10 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="44a666bc-0678-40b1-8696-c8979782724f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/구현/게임 개발.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/구현/상하좌우.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/구현/시각.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/구현/왕실의 나이트.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,7 +52,8 @@
       <workItem from="1673937055688" duration="3222000" />
       <workItem from="1674033867799" duration="6855000" />
       <workItem from="1674091906910" duration="6787000" />
-      <workItem from="1674204072618" duration="8083000" />
+      <workItem from="1674204072618" duration="8728000" />
+      <workItem from="1674493168637" duration="10031000" />
     </task>
     <servers />
   </component>
@@ -67,14 +64,20 @@
     <SUITE FILE_PATH="coverage/algorithm_python$_3568.coverage" NAME="백준_3568 Coverage Results" MODIFIED="1674213886502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/구현" />
     <SUITE FILE_PATH="coverage/algorithm_python$_14916.coverage" NAME="백준_14916 Coverage Results" MODIFIED="1674039171586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Greedy Algorithm" />
     <SUITE FILE_PATH="coverage/algorithm_python$_1758.coverage" NAME="백준_1758 Coverage Results" MODIFIED="1674041914379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Greedy Algorithm" />
-    <SUITE FILE_PATH="coverage/algorithm_python$_.coverage" NAME="왕실의 나이트 Coverage Results" MODIFIED="1674207113535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/구현" />
+    <SUITE FILE_PATH="coverage/algorithm_python$_.coverage" NAME="미로 탈출 Coverage Results" MODIFIED="1674558210489" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DFS&amp;BFS" />
     <SUITE FILE_PATH="coverage/algorithm_python$_11047.coverage" NAME="백준_11047 Coverage Results" MODIFIED="1674092380467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Greedy Algorithm" />
     <SUITE FILE_PATH="coverage/algorithm_python$_11399.coverage" NAME="백준_11399 Coverage Results" MODIFIED="1674093926869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Greedy Algorithm" />
-    <SUITE FILE_PATH="coverage/algorithm_python$_1931.coverage" NAME="백준_1931 Coverage Results" MODIFIED="1674100162321" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Greedy Algorithm" />
-    <SUITE FILE_PATH="coverage/algorithm_python$___.coverage" NAME="프로그래머스_큰 수 만들기 Coverage Results" MODIFIED="1674048695301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Greedy Algorithm" />
     <SUITE FILE_PATH="coverage/algorithm_python$_1343.coverage" NAME="백준_1343 Coverage Results" MODIFIED="1673940939845" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Greedy Algorithm" />
     <SUITE FILE_PATH="coverage/algorithm_python$1____1.coverage" NAME="1이 될 때 까지_1 Coverage Results" MODIFIED="1673937071420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Greedy Algorithm" />
+    <SUITE FILE_PATH="coverage/algorithm_python$_2178.coverage" NAME="백준_2178 Coverage Results" MODIFIED="1674558275005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DFS&amp;BFS" />
+    <SUITE FILE_PATH="coverage/algorithm_python$_2606.coverage" NAME="백준_2606 Coverage Results" MODIFIED="1674559390439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DFS&amp;BFS" />
+    <SUITE FILE_PATH="coverage/algorithm_python$_1260.coverage" NAME="백준_1260 Coverage Results" MODIFIED="1674557001304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DFS&amp;BFS" />
+    <SUITE FILE_PATH="coverage/algorithm_python$_1931.coverage" NAME="백준_1931 Coverage Results" MODIFIED="1674100162321" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Greedy Algorithm" />
+    <SUITE FILE_PATH="coverage/algorithm_python$___.coverage" NAME="프로그래머스_큰 수 만들기 Coverage Results" MODIFIED="1674048695301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Greedy Algorithm" />
+    <SUITE FILE_PATH="coverage/algorithm_python$_11000.coverage" NAME="백준_11000 Coverage Results" MODIFIED="1674496453220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Greedy Algorithm" />
     <SUITE FILE_PATH="coverage/algorithm_python$_2217.coverage" NAME="백준_2217 Coverage Results" MODIFIED="1673939736734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Greedy Algorithm" />
+    <SUITE FILE_PATH="coverage/algorithm_python$_1167.coverage" NAME="백준_1167 Coverage Results" MODIFIED="1674552442137" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DFS&amp;BFS" />
+    <SUITE FILE_PATH="coverage/algorithm_python$_2667.coverage" NAME="백준_2667 Coverage Results" MODIFIED="1674561601184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DFS&amp;BFS" />
     <SUITE FILE_PATH="coverage/algorithm_python$.coverage" NAME="상하좌우 Coverage Results" MODIFIED="1674204946838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/구현" />
   </component>
 </project>
