@@ -9,7 +9,7 @@ start = 1
 end = arr[-1] - arr[0]
 result = 0
 
-while start<= end:
+while start <= end:
     mid = (start+end)//2
     count = 1
     current = arr[0]
