@@ -1,21 +1,41 @@
+# import sys
+# from collections import deque
+#
+# def bfs(v):
+#     q = deque([v])
+#     while q:
+#         v = q.popleft()
+#         if v == k:
+#             return array[v]
+#         for next_v in (v-1, v+1, 2*v):
+#             if 0 <= next_v < MAX and not array[next_v]:
+#                 array[next_v] = array[v] + 1
+#                 q.append(next_v)
+#
+#
+# MAX = 100001
+# n, k = map(int, sys.stdin.readline().split())
+# array = [0] * MAX
+# print(bfs(n))
+
 from collections import deque
+import sys
 
-def BFS():
+def bfs(v):
     q = deque()
-    q.append(n)
-
+    q.append(v)
     while q:
-        x = q.popleft()
-        if x == k:
-            print(dist[x])
-            break
-        for nx in (x-1,x+1,x * 2):
-            if 0 <= nx <= MAX and not dist[nx]:
-                dist[nx] = dist[x] +1
-                q.append(nx)
+        v = q.popleft()
+        if v == k:
+            return visited[v]
+        for i in (v + 1, v - 1, v * 2):
+            if 0 <= i < max and not visited[i]:
+                visited[i] = visited[v] + 1
+                q.append(i)
 
-MAX = 10 ** 5
-dist = [0] * (MAX+1)
-n,k = map(int,input().split())
+max = 100001
+n, k = map(int, sys.stdin.readline().split())
+visited = [0] * max
+print(bfs(n))
 
-BFS()
+
